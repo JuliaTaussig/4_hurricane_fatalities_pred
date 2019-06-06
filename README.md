@@ -26,8 +26,7 @@ Can we predict how deadly a hurricane (that affects the east coast of the U.S.) 
 |Status|Object|Status of the storm (for example, HU: hurricane)|
 |Latitude (lat)|Float|Latitude of the storm (measurement)|
 |Longitude (lng)|Float|Longitude of the storm (measurement)|
-|Maximum wind|Float|Maximum sustained surface wind speed (units: kt, short for knot which is one nautical mile per hour),
-rounded to nearest kt|
+|Maximum wind|Float|Maximum sustained surface wind speed (units: kt, short for knot which is one nautical mile per hour), rounded to nearest kt|
 |Minimum pressure|Float|Minimum pressure (units: millibar), rounded to nearest millibar|
 |Year|Integer|Year of the storm measurement|
 |Month|Integer|Month of the storm measurement|
